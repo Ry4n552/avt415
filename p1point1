@@ -1,1 +1,30 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Example Repository</title>
+</head>
+<body>
+<h1>Example Repository</h1>
+<h2>Projects</h2>
+<h3>Projects 1</h3>
+<h3>Projects 2</h3>
+<h2>Exercises</h2>
+<h4>Topic 1 - Manga</h4>
+<p>
+Manga is said to originate from emakimono (scrolls), Chōjū-jinbutsu-giga, dating back to the 12th and 13th centuries. During the Edo period (1603–1867), another book of drawings, Toba Ehon, embedded the concept of manga.
+</p>
+<h4>Topic 2 - Tezuka</h4>
+<p>
+Osamu Tezuka was a Japanese manga artist, cartoonist and animator. Born in Osaka Prefecture, his prolific output, pioneering techniques and innovative redefinitions of genres earned him such titles as "the Father of Manga", "the Godfather of Manga" and "the God of Manga."
+</p>
+<h4>Topic 3 - Anime</h4>
+<p>
+Anime is a style of Japanese animated entertainment that has become increasingly popular around the world in recent years.
+</p>
+<h4>Weekly Screenshots</h4>
+<div><img src="D:/class stuff/AVT 415/screenshot 1.png" alt=""></div>
+<div><img src="D:/class stuff/AVT 415/screenshot 2.png" alt=""></div>
+</body>
+</html>
