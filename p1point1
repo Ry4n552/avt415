@@ -6,7 +6,7 @@
 	<title>AVT 415</title>
 </head>
 	<body>
-		<h1>Example Repository</h1>
+		<h1>Ryan Tran</h1>
 		<h2>Projects</h2>
 		<h3>Projects 1</h3>
 		<h4>Topic 1 - Manga</h4>
@@ -18,7 +18,9 @@
 <hr>
 		<h3>Projects 2</h3>
 		<h2>Exercises</h2>
-		<h4>Weekly Screenshots</h4>
+<ul>
+	<li><a href="https://www.figma.com/design/UYulLCnesSglzOfGOB3QQq/Untitled?node-id=0-1&t=eoCiVms3pGuWEjQb-1">Exercise 1: A Little Background<a><li>
+</ul>		<h4>Weekly Screenshots</h4>
 <div><img src="D:/class stuff/AVT 415/screenshot 1.png" alt=""></div>
 <div><img src="D:/class stuff/AVT 415/screenshot 2.png" alt=""></div>
 </body>
