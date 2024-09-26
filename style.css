@@ -1,0 +1,26 @@
+body {
+	background: #201B21;
+}
+h1 {
+	color: #FF034F;
+	font-weight: bold;
+	font-size: 100px;
+	font-family: ;
+}
+h2 {
+	color: #FF034F;
+	font-size: 50px;
+}
+h3 {
+	color: white;
+	font-size: 25px;
+}
+h4 {
+	color: white;
+}
+ul {
+	color: white;
+}
+a {
+	color: #FF034F
+}
